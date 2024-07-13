@@ -9,7 +9,7 @@ from sys import argv
 from moviepy.editor import VideoFileClip, concatenate_videoclips
 
 
-API_KEY = 'AIzaSyCeTZtv9BC4FLVrmiJjd8L_GfuYM3V2UuQ'
+API_KEY = '<API_Key>'
 video_output = "temp"
 
 youtube = build(
